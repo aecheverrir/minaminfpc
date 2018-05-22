@@ -1,3 +1,5 @@
+/* la api_key utilizada esta actualmente publica en github */
+
 import {
   Meteor
 } from 'meteor/meteor';
